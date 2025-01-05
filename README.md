@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0456-132-pattern) |
+| [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0456-132-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
