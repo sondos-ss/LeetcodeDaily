@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 | [0456-132-pattern](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0456-132-pattern) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 ## Binary Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 ## Sorting
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
