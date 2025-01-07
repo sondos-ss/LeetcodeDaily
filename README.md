@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0067-add-binary) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Sorting
 |  |
 | ------- |
