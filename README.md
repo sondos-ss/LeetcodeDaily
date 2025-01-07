@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0456-132-pattern) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 ## Binary Search
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
 |  |
@@ -58,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
