@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0456-132-pattern) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
