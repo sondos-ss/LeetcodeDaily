@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0067-add-binary) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2154-minimum-moves-to-convert-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2154-minimum-moves-to-convert-string](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2154-minimum-moves-to-convert-string) |
 ## Sorting
 |  |
 | ------- |
