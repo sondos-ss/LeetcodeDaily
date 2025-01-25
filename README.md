@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0456-132-pattern) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0502-ipo) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sondos-ss/LeetcodeDaily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
