@@ -2,29 +2,17 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1) return true; 
-        bool is = false;
-        int i = 0;
-
-        while (i < n - 1) {
-            int f = nums[i] + i;
-            if (f >= n - 1) { 
-                is = true;
-                break;
+        int farthest = 0;
+        for (int i = 0; i < n; i++) {
+            if (i > farthest) {
+                return false;
             }
-           
-            int next = i;
-            for (int j = i + 1; j <= f; j++) {
-                if (j + nums[j] > next + nums[next]) {
-                    next = j;
-                }
+            farthest = max(farthest, i + nums[i]);
+            if (farthest >= n - 1) {
+                return true;
             }
-            if (next == i) {
-                break; 
-            }
-            i = next; 
         }
 
-        return is;
+        return false;
     }
 };
