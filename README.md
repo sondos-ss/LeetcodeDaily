@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0055-jump-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sondos-ss/LeetcodeDaily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
