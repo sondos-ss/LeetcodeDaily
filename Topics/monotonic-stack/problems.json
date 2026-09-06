@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack"
+  },
+  "updatedAt": "2026-09-06T23:49:55.649Z",
+  "problems": [
+    {
+      "frontendId": "456",
+      "title": "132 Pattern",
+      "slug": "132-pattern",
+      "problemName": "0456-132-pattern",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/132-pattern/",
+      "folderPath": "0456-132-pattern/",
+      "readmePath": "0456-132-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0456-132-pattern.cpp",
+          "path": "0456-132-pattern/0456-132-pattern.cpp",
+          "sha": "68c8b53a3dd09844d94c6f01e23e74e1176813e2",
+          "lastSyncedAt": "2026-09-06T23:49:55.649Z"
+        }
+      ]
+    }
+  ]
+}
