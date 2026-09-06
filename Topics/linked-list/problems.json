@@ -4,6 +4,27 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-06T23:49:40.685Z",
-  "problems": []
+  "updatedAt": "2026-09-06T23:50:31.479Z",
+  "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0002-add-two-numbers.cpp",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
+          "sha": "a21defe2d11190624427cfe7a41db55b918f5550",
+          "lastSyncedAt": "2026-09-06T23:50:31.479Z"
+        }
+      ]
+    }
+  ]
 }
