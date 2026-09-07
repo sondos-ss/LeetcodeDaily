@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-07T23:06:40.879Z",
+  "updatedAt": "2026-09-07T23:13:15.762Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,14 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "7b23b524205ae9fab415999eb5ac4ab5b62ef649",
           "lastSyncedAt": "2026-09-07T23:06:40.879Z"
+        },
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0003-longest-substring-without-repeating-charactersoptimized.cpp",
+          "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-charactersoptimized.cpp",
+          "sha": "5eebf8cdd12bde773ba73371f24a5aef4c996448",
+          "lastSyncedAt": "2026-09-07T23:13:15.762Z"
         }
       ]
     }
