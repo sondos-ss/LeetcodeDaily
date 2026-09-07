@@ -6,25 +6,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 0 | 1 | 0 |
+| 2 | 0 | 2 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 1 |
+| 2 days | 2 days | 2 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-09-07 | 1 |
+| 2026-09-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 1 | 100% |
-| Math | 1 | 100% |
-| Recursion | 1 | 100% |
+| Hash Table | 1 | 50% |
+| Linked List | 1 | 50% |
+| Math | 1 | 50% |
+| Recursion | 1 | 50% |
+| Sliding Window | 1 | 50% |
+| String | 1 | 50% |
 
 ## Topics
 
@@ -38,13 +42,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 0 |
+| [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 1 |
 <!---LeetHub Summary End-->
