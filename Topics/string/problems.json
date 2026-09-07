@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-07T23:13:15.762Z",
+  "updatedAt": "2026-09-07T23:13:26.025Z",
   "problems": [
     {
       "frontendId": "3",
@@ -22,7 +22,7 @@
           "filename": "0003-longest-substring-without-repeating-characters.cpp",
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "7b23b524205ae9fab415999eb5ac4ab5b62ef649",
-          "lastSyncedAt": "2026-09-07T23:06:40.879Z"
+          "lastSyncedAt": "2026-09-07T23:13:26.025Z"
         },
         {
           "language": "C++",
