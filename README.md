@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 3 | 1 | 2 | 0 |
+| 4 | 2 | 2 | 0 |
 
 ## Activity
 
@@ -18,20 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- | ---: |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 1 |
-| 2026-09-15 | 1 |
+| 2026-09-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 2 | 67% |
-| Dynamic Programming | 1 | 33% |
-| Hash Table | 1 | 33% |
-| Linked List | 1 | 33% |
-| Memoization | 1 | 33% |
-| Recursion | 1 | 33% |
-| Sliding Window | 1 | 33% |
-| String | 1 | 33% |
+| Math | 3 | 75% |
+| Dynamic Programming | 2 | 50% |
+| Memoization | 2 | 50% |
+| Recursion | 2 | 50% |
+| Hash Table | 1 | 25% |
+| Linked List | 1 | 25% |
+| Sliding Window | 1 | 25% |
+| String | 1 | 25% |
 
 ## Topics
 
@@ -43,16 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Memoization](Topics/memoization/) | 1 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 1 |
