@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-06T23:49:55.649Z",
+  "updatedAt": "2026-09-27T17:56:28.803Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0004-median-of-two-sorted-arrays.cpp",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
+          "sha": "56c3b620d856e9ace9ef30f9833a537ce70b523b",
+          "lastSyncedAt": "2026-09-27T17:56:28.803Z"
+        }
+      ]
+    },
     {
       "frontendId": "456",
       "title": "132 Pattern",
