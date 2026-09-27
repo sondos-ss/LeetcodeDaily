@@ -6,43 +6,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 4 | 2 | 2 | 0 |
+| 5 | 2 | 2 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 3 |
+| 1 days | 2 days | 4 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 1 |
 | 2026-09-15 | 2 |
+| 2026-09-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 3 | 75% |
-| Dynamic Programming | 2 | 50% |
-| Memoization | 2 | 50% |
-| Recursion | 2 | 50% |
-| Hash Table | 1 | 25% |
-| Linked List | 1 | 25% |
-| Sliding Window | 1 | 25% |
-| String | 1 | 25% |
+| Math | 3 | 60% |
+| Dynamic Programming | 2 | 40% |
+| Memoization | 2 | 40% |
+| Recursion | 2 | 40% |
+| Array | 1 | 20% |
+| Binary Search | 1 | 20% |
+| Divide and Conquer | 1 | 20% |
+| Hash Table | 1 | 20% |
+| Linked List | 1 | 20% |
+| Sliding Window | 1 | 20% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
+| [Array](Topics/array/) | 2 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
